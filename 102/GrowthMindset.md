@@ -1,8 +1,6 @@
 # reading-notes
 Reading Notes for Code Fellows
 
-![Frustrated Coder](/frustrated coder.webp)
-
 ## What I learned about a *Growth Mindset* in my own words
 
 A growth mindset is necessary to continue to learn and succeed in new fields or even the same field at different levels. It is what allows you to continue to push your mind to be consistently uncomfortable in order to achieve more knowledge at a faster pace.
