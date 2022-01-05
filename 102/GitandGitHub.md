@@ -11,8 +11,8 @@
 Without a version control system, your files will save a brand new .docx. This will make multiple files in your folder. Using a version control system, when you edit and add or 'commit' a new version, it replaces the old one.
 - Each commit(snapshot) has a label that points to it
 - HEAD = the label meaning "you are here"
-- you can also assign messages to commits
-- messages are like writing a caption for your snapshot 
+- You can also assign messages to commits
+- Messages are like writing a caption for your snapshot 
 
 ### Summary of git
 
@@ -29,7 +29,7 @@ Without a version control system, your files will save a brand new .docx. This w
   - Version tracking
   - reviewing changes
 
-## git + GitHub = Awesome
+## git with GitHub
 
 - With Git (version control) and GitHub (online code storage), you can :
   - Keep history of each file
@@ -45,3 +45,4 @@ Without a version control system, your files will save a brand new .docx. This w
 ## Cloning
 
 - Cloning takes what you made in github cloud and clones it to your local machine
+- This is a great tool to bring a project or file you have in GitHub down to your local device to work on that file in VS Labs  
