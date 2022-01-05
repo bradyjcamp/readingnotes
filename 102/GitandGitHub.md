@@ -1,20 +1,4 @@
-# Class 03: Git and Github
-
-## Review
-
-Takeaways from yesterday afternoon lecture.
-- 
-
-## VS Code extensions that I love
-
-- Live Server 
-- Markdown lint 
-- Markdown all in one
-- Thunder client
-- eslint
-- markdown all in one
-- atom-keymap
-- live-share
+# Git and Github
 
 ## Git
 
