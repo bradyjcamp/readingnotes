@@ -126,23 +126,149 @@ pi + "<br>" + person + "<br>" + answer;
 
 # More on JavaScript
 
+
 ## Control Flow
 
-- Typically computers will read a line of code from top to bottom, unless there are **condtionals** or **loops** added
-  - A **condition** is a set of rules that can interrupt normal code execution or change it, depending on whether the condition is completed or not. (think of instructions, if done correctly you will go to instruction A, if wrong, go to instruction B) 
+
+- Typically computers will read a line of code from top to bottom, unless there are **conditionals** or **loops** added
+  - A **condition** is a set of rules that can interrupt normal code execution or change it, depending on whether the condition is completed or not. (think of instructions, if done correctly you will go to instruction A, if wrong, go to instruction B)
 - JS uses `if`... then `else`
-```
+```js
 if (field==empty) {
-    promptUser();
+    prompt();
 } else {
-    submitForm();
+   submitForm();
 }
 ```
 ## Functions
 
+
+- Any JS operation or set of operations that should be repeated. Provides a syntax for turning operations into a repeatable "thing"
+- JS Function signature
+```js
+// "function" keyword, followed by a name for the function, followed by parentheses, followed by a pair of curly brackets.
+
+
+let words = 'is it morning yet';
+
+
+// function defined with the words parameter/
+
+
+function functionName(words){
+//the things the function needs to do go here.
+}
+
+
+//invoke functionName
+
+
+functionName('Is it morning yet'); // our argument
+
+
+//argument is created on invoke of function
+
+
+
+
+function calculateTime(time) {
+  if (time < 12) {
+    return 'it is morning';}
+  else {
+  return 'it is evening';}
+}
+```
+- arguments / parameters
+  - Arguments are the values that are passed into the function on 'invocation'
+  - Parameter is a variable we define in the parentheses of our function signature.
+  - the argument is the value that is assigned to the parameter
+  - Return values
+    - Stops your function from running
 - A JavaScript function is a block of code designed to perform a particular task.
 - Function is executed when something invokes it
-- 
+
+
+## JS Topics
+
+
+- Expressions
+  - line of code or JS operations that evaluates to some value.
+```js
+let words = 'name';
+if (words > 10) {
+console.log('works');
+} else {
+console.log('doesn't work);
+}
+
+
+//inverse example
+
+
+let itAwesome = false;
+
+
+if (!itAwesome) {
+console.log('You are awesome');
+}
+
+
+OUTCOME You are awesome
+```
+-Operators
+  - <: less than
+  - >: greater that
+  - +: increment one (plus)
+  - -: decrement one
+  - &&: logical AND
+  - ||: logical OR
+  - !: logical NEGATION / INVERSE
+  - ==: equal to
+  - ===: strictly equal to
+
+
+```js
+
+
+let number = 10;
+
+
+if (number < 10 && number > 5) {
+  console.log('your number is between 5 and 10');
+} else {
+    console.log('your number is not between 5 and 10');
+}
+
+
+//when you add function and input you do not have to put in data every time 
+
+
+function compareNumber(number) {
+if (number < 10 && number > 5) {
+  console.log('your number is between 5 and 10');
+} else {
+    console.log('your number is not between 5 and 10');
+}
+
+
+}
+```
+```js
+
+
+function makeASandwich(){
+
+
+let bread = prompt('what bread do you like?');
+let meat = prompt('what meat do you like?');
+let cheese = prompt('what cheese do you like?');
+
+
+return 'Here is a sandwich with ' + bread + ',' + meat + ',' + cheese + ',';
+}
+
+
+```
   
   
   
