@@ -5,16 +5,16 @@
 - It is most popular and best known as the scripting language for web pages.
 - Classified as a just-in-time scripting or programming language. Meaning it is not compiled before execution but during execution. 
 - Unless you are staring at a static web browser page, then JS is working in the background to provide content updates, interactive maps etc.
-- Creates dynamically updating content, contols multimedia, and animates images.
+- Creates dynamically updating content, controls multimedia, and animates images.
 - If you think of HTML as content, CSS as the look, then JS would be the behavior.
 - It is a programming or scripting language. 
   - Programming language is language that we use to tell the computer what to do using data and features available.
   - Syntax is more straight forward.
 - Data types
   - String
-    - Group of text character, used to represent natural language (like this sentance).
+    - Group of text character, used to represent natural language (like this sentence).
   - Number
-    - Quantitative value that represents all fractions, decimals, intigers.
+    - Quantitative value that represents all fractions, decimals, integers.
   - Boolean
    - A set of two value: **True and False**
   - lack of date = null and undefined
@@ -52,13 +52,13 @@ const price = 10;
 const price2 = 20;
 let total = price + price2;
 ```
-- Variables are much like baisc algebra.
+- Variables are much like basic algebra.
 
 ## Identifiers
 
 - All JS **variables** must be **identified** with **unique names**.
 - These unique names are called **Identifiers**.
-- Identifiers are what you lable the vaiable or `const`.
+- Identifiers are what you label the variable or `const`.
   - Names can contain letters, digits, underscores, and dollar signs.
   - Names must begin with a letter, $, or _, just keep in mind they that even $ and _ is treated like a letter.
   - Names are case sensitive (y and Y are different variables).
@@ -95,7 +95,7 @@ pi + "<br>" + person + "<br>" + answer;
 </html>
 ```
 - `"<br>"` is a line break.
-- Be sure to always add `" "` for implemnting a space in your `document.getElementByID("demo").innterHTML =` OtherwiseTheOutcomeWillHaveNoSpaces
+- Be sure to always add `" "` for implementing a space in your `document.getElementByID("demo").innterHTML =` OtherwiseTheOutcomeWillHaveNoSpaces
 - Use parentheses for strings but not for numbers! If you put parentheses around numbers they will be display side by side, not added.
 
 ## How Computer Work!
@@ -103,16 +103,16 @@ pi + "<br>" + person + "<br>" + answer;
   - It is a tool!
   - Designed to help with thinking work like equations /
 - It takes **Input** -> **Stores Data** -> **Processes** -> **Output**
-  - Itput is what we type in or what we want it to do
+  - Input is what we type in or what we want it to do
   - The input is then stored in memory
-  - The processor then munipulates the stored date to change to output
+  - The processor then manipulates the stored date to change to output
 - It is designed to display image, text, photos, videos, games, or signals.
 - Binary and Data
   - Binary
     - Circuit wires in the hardware chips are used to either select 1 or 0 in the computers native binary language. 1 means they are on, 0 means they are off.
     - The more info that is needed, more bits are used.
-    - In binary there are only 2 numbers used but each position as it progresses is multuplied by x 2.
-    - To get the numnber 9 in binary, you put in 1001. (1x8)(0x4)(0x2)(1x1) = 9.
+    - In binary there are only 2 numbers used but each position as it progresses is multiplied by x 2.
+    - To get the number 9 in binary, you put in 1001. (1x8)(0x4)(0x2)(1x1) = 9.
    - Letters are assigned numbers.
     - Pixels
     - Displays images.
@@ -120,7 +120,9 @@ pi + "<br>" + person + "<br>" + answer;
   - Sound
     - Soundwaves can also be nailed down into sound.
     - Think of 8 bit as lower quality. 32 bit is better quality.
-- Curcuits
+- Circuits
   - The smaller the circuit is, the faster the info can get to where it needs to be.
+  
+  
   
   
