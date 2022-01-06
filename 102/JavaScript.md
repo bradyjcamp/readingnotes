@@ -122,7 +122,27 @@ pi + "<br>" + person + "<br>" + answer;
     - Think of 8 bit as lower quality. 32 bit is better quality.
 - Circuits
   - The smaller the circuit is, the faster the info can get to where it needs to be.
-  
+
+
+# More on JavaScript
+
+## Control Flow
+
+- Typically computers will read a line of code from top to bottom, unless there are **condtionals** or **loops** added
+  - A **condition** is a set of rules that can interrupt normal code execution or change it, depending on whether the condition is completed or not. (think of instructions, if done correctly you will go to instruction A, if wrong, go to instruction B) 
+- JS uses `if`... then `else`
+```
+if (field==empty) {
+    promptUser();
+} else {
+    submitForm();
+}
+```
+## Functions
+
+- A JavaScript function is a block of code designed to perform a particular task.
+- Function is executed when something invokes it
+- 
   
   
   
