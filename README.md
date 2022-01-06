@@ -8,4 +8,5 @@ My name is Brady Camp and this is my reading notes page!
 - [Git and GitHub](102/GitandGitHub.md)
 - [Growth Mindset](102/GrowthMindset.md)
 - [Hypertext Markup Language](102/HypertextMarkupLanguage.md)
-- [CSS](CSS.md)
+- [CSS](102/CSS.md)
+- [JavaScript](102/JavaScript.md)

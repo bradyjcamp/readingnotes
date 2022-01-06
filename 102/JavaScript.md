@@ -24,8 +24,8 @@
   - It makes http requests.
   - semicolons are optional but should stay consistent.
 
-## Variables
+## How do computers work?
 
-`let name = 'Brady';`
+- 
 
 
