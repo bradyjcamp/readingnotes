@@ -270,5 +270,3 @@ return 'Here is a sandwich with ' + bread + ',' + meat + ',' + cheese + ',';
 
 ```
   
-  
-  

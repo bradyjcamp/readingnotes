@@ -10,3 +10,4 @@ My name is Brady Camp and this is my reading notes page!
 - [Hypertext Markup Language](102/HypertextMarkupLanguage.md)
 - [CSS](102/CSS.md)
 - [JavaScript](102/JavaScript.md)
+- [JS Expressions and Operators](102/Expressions-and-Operators.md)
