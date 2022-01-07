@@ -40,3 +40,5 @@
 ## Browser Compatibility 
 
 - Browser compatibility is something to think of when using CSS to create a webpage that might be used on a web broweser on a computer, or a web browser or app on a mobile device.
+
+- CSS is awesome!
