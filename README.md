@@ -11,3 +11,4 @@ My name is Brady Camp and this is my reading notes page!
 - [CSS](102/CSS.md)
 - [JavaScript](102/JavaScript.md)
 - [JS Expressions and Operators](102/Expressions-and-Operators.md)
+- [JS Loops](102/JS-Loops.md)
