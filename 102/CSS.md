@@ -3,6 +3,7 @@
 - Cascading Style Sheets is the icing on the cake. HTML is the structure / layers of the cake .
 - It is the language that describes how HTML elements will look and be displayed.
 - CSS is used to add color, shape, design, layout, and more custom features.
+- You can also move or `float: right;` pictures so text goes on the left and under. 
 
 ## CSS Syntax
 
@@ -40,3 +41,4 @@
 ## Browser Compatibility 
 
 - Browser compatibility is something to think of when using CSS to create a webpage that might be used on a web broweser on a computer, or a web browser or app on a mobile device.
+
