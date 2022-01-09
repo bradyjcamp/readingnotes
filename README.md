@@ -1,14 +1,40 @@
-# My Reading Notes!
+# Code Fellows Reading-Notes
 
-My name is Brady Camp and this is my reading notes page!
+- This website currently contains all of my reading notes for my Software Development Courses so far.
+ 
+## Code 201 Reading Notes
 
-## Table of Contents
-- [Markdown](102/Markdown.md)
-- [Text Editors and Terminal](102/Text-Editor-and-Terminal.md)
-- [Git and GitHub](102/GitandGitHub.md)
-- [Growth Mindset](102/GrowthMindset.md)
-- [Hypertext Markup Language](102/HypertextMarkupLanguage.md)
-- [CSS](102/CSS.md)
-- [JavaScript](102/JavaScript.md)
-- [JS Expressions and Operators](102/Expressions-and-Operators.md)
-- [JS Loops](102/JS-Loops.md)
+- Below is a table of contents for all of Code 201's reading-notes.
+
+### Table of Contents 201
+
+- [Introductory HTML and JavaScript]()
+- [HTML Text, CSS Introduction, and Basic JavaScript Instructions]()
+- [HTML Lists, CSS Boxes, and JS Control Flow]()
+- [HTML Links, CSS Layout, JS Functions]()
+- [HTML Images; CSS Color & Text]()
+- [JS Object Literals; The DOM]()
+- [HTML Tables; JS Constructor Functions]()
+- [More CSS Layout]()
+- [Forms and Events]()
+- [JS Debugging]()
+- [Assorted Topics]()
+- [Docs for the HTML <canvas> Element & Chart.js]()
+- [Local Storage]()
+- [CSS Transforms, Transitions, and Animations]()
+- [What Google Learned About Teams]()
+
+## Code 102 Reading Notes
+
+- Below is a table of contents for all of Code 102's reading-notes.
+
+### Table of Contents 102
+- [Markdown](Code_102_Reading-Notes/Markdown.md)
+- [Text Editors and Terminal](Code_102_Reading-Notes/Text-Editor-and-Terminal.md)
+- [Git and GitHub](Code_102_Reading-Notes/GitandGitHub.md)
+- [Growth Mindset](Code_102_Reading-Notes/GrowthMindset.md)
+- [Hypertext Markup Language](Code_102_Reading-Notes/HypertextMarkupLanguage.md)
+- [CSS](Code_102_Reading-Notes/CSS.md)
+- [JavaScript](Code_102_Reading-Notes/JavaScript.md)
+- [JS Expressions and Operators](Code_102_Reading-Notes/Expressions-and-Operators.md)
+- [JS Loops](Code_102_Reading-Notes/JS-Loops.md)
