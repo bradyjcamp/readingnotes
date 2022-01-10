@@ -19,7 +19,7 @@
 - [Forms and Events]()
 - [JS Debugging]()
 - [Assorted Topics]()
-- [Docs for the HTML <canvas> Element & Chart.js]()
+- [Docs for the HTML Element & Chart]()
 - [Local Storage]()
 - [CSS Transforms, Transitions, and Animations]()
 - [What Google Learned About Teams]()
