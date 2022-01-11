@@ -9,7 +9,7 @@
 ### Table of Contents 201
 
 - [Introductory HTML and JavaScript](Code_201_Reading-Notes/class-01.md)
-- [HTML Text, CSS Introduction, and Basic JavaScript Instructions]()
+- [HTML Text, CSS Introduction, and Basic JavaScript Instructions](Code_201_Reading-Notes/class-02.md)
 - [HTML Lists, CSS Boxes, and JS Control Flow]()
 - [HTML Links, CSS Layout, JS Functions]()
 - [HTML Images; CSS Color & Text]()
