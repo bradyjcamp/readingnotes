@@ -10,7 +10,7 @@
 
 - [Introductory HTML and JavaScript](Code_201_Reading-Notes/class-01.md)
 - [HTML Text, CSS Introduction, and Basic JavaScript Instructions](Code_201_Reading-Notes/class-02.md)
-- [HTML Lists, CSS Boxes, and JS Control Flow]()
+- [HTML Lists, CSS Boxes, and JS Control Flow](Code_201_Reading-Notes/class-03.md)
 - [HTML Links, CSS Layout, JS Functions]()
 - [HTML Images; CSS Color & Text]()
 - [JS Object Literals; The DOM]()
