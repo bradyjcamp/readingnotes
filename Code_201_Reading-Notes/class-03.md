@@ -44,7 +44,7 @@ Duckett, John. _HTML & CSS: Design and Build Websites._ John Wiley and Sons, 201
 
 ### Border, Margin, and Padding
 
-- The **padding** is the box aroung the text, it is the closest layer.
+- The **padding** is the box around the **context box**, it is the closest layer.
   - Change the padding dimensions and size to create space from the text to the border.
 - The **border** then goes around the **padding** and most time is not visible unless specified otherwise.
   - Borders can have any width and you can also assign different styles and colors.
@@ -74,11 +74,20 @@ Duckett, John. _HTML & CSS: Design and Build Websites._ John Wiley and Sons, 201
 
 ## Arrays
 
-- Arrays store a list of values not just one.
-- They can be given a name as well to go with the values.
+- Arrays store a list of elements not just one.
+  - Contains strings, numbers, booleans, arrays, objects
+  - They can be given a name as well to go with the values.
+- They do not have predetermined size of arrays.
+- Data type or data structure **special type of ebject**
+- Every element in the array has an index(location reference)
 - Array values can be referenced using numbers.
   - If an array had a list of 5 values and you wanted to reference the first value, you would enter `name[0]`.
   - The index value starts at 0 so your first item would be `[0]`.
+    - Zero based index system
+- Build in Methods!
+  - `.push()`, `.pop()`, `.includes()`.
+-Properties
+  - `length`
 
 ## Switch Statements
 
