@@ -75,6 +75,8 @@ let variableName = 'variableValue'
   - Numeric Data `0.75`
   - String Data `'Hello World'`
   - Boolean Data `true`
+  - Undefined
+  - null
 
 
 ### Arrays
@@ -138,6 +140,24 @@ Duckett, John. JAVASCRIPT &amp; JQUERY: interactive front-end web development. J
     - `false || false` returns `false`
   - `!` (logical not)
     -`!true` returns `false`
-
-
 Duckett, John. JAVASCRIPT &amp; JQUERY: interactive front-end web development. John Wiley and Sons, 2014.
+
+# Git vs. GitHub
+
+- Git
+  - version control system
+- GitHub
+  - Online: where our code will be stored
+- Git flow = ACP
+  - Add
+  - Commit + meaningful message that explains exactly what the commit and push was for
+  - Push
+- Git flow for repo
+  - Create our Repo on GitHub first
+  - Clone down to machine  by using **git clone <url>**
+  - Make local changes on machine
+  - ACP to push to github
+    - git add file or file(s) of git add . (which means all)
+    - git commit -m "meaningful message"
+    - git push origin <branch name>
+
