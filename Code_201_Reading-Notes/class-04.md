@@ -105,3 +105,14 @@ let volumeOne = getSize(5, 2, 8)[1];
 ```
 
 Duckett, John. JAVASCRIPT &amp; JQUERY: interactive front-end web development. John Wiley and Sons, 2014.
+
+
+### Why do we use functions?
+
+- Functions are reusable.
+- Functions help keep our code FRY (do not repeat yourself)
+
+### Two Step Process
+
+- Define/Declare out function
+- Call/Run
