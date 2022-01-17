@@ -49,15 +49,13 @@ Duckett, John. JAVASCRIPT &amp; JQUERY: interactive front-end web development. J
 - Next you can **call on the function**
   - This is done by enter the function _name_ follow by parentheses.
 - Sometimes, once you _declare_ the function, you will need to give it **parameters** in the parentheses.
-  ```js
-  // Parameters
+
+```js
+  funciton getArea(width, height){
+  return width \* height;
+  }
   ```
 
-funciton getArea(width, height){
-return width \* height;
-}
-
-````
 Duckett, John. JAVASCRIPT &amp; JQUERY: interactive front-end web development. John Wiley and Sons, 2014.
 
 - Once parameters have been determined, when you call on that funciton, you will need to specify those _values_
@@ -105,7 +103,6 @@ let volumeOne = getSize(5, 2, 8)[1];
 ```
 
 Duckett, John. JAVASCRIPT &amp; JQUERY: interactive front-end web development. John Wiley and Sons, 2014.
-
 
 ### Why do we use functions?
 

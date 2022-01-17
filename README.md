@@ -1,7 +1,7 @@
 # Code Fellows Reading-Notes
 
 - This website currently contains all of my reading notes for my Software Development Courses so far.
- 
+
 ## Code 201 Reading Notes
 
 - Below is a table of contents for all of Code 201's reading-notes.
@@ -13,7 +13,7 @@
 - [HTML Lists, CSS Boxes, and JS Control Flow](Code_201_Reading-Notes/class-03.md)
 - [HTML Links, CSS Layout, JS Functions](Code_201_Reading-Notes/class-04.md)
 - [HTML Images; CSS Color & Text](Code_201_Reading-Notes/class-05.md)
-- [JS Object Literals; The DOM]()
+- [JS Object Literals; The DOM](Code_201_Reading-Notes/class-06.md)
 - [HTML Tables; JS Constructor Functions]()
 - [More CSS Layout]()
 - [Forms and Events]()
@@ -29,6 +29,7 @@
 - Below is a table of contents for all of Code 102's reading-notes.
 
 ### Table of Contents 102
+
 - [Markdown](Code_102_Reading-Notes/Markdown.md)
 - [Text Editors and Terminal](Code_102_Reading-Notes/Text-Editor-and-Terminal.md)
 - [Git and GitHub](Code_102_Reading-Notes/GitandGitHub.md)
