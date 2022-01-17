@@ -11,16 +11,18 @@ Duckett, John. JAVASCRIPT &amp; JQUERY: interactive front-end web development. J
 
 ```js
 let hotel = {
+  //key value pairs
   name: "Quay",
   rooms: 40,
   booked: 25,
   gym: true,
   RoomTypes: ["twim", "double", "suite"],
-  //These are the properties above
+  //These are the properties above ( the property is the key value pair together ie. name: "Quay?")
   checkAvailability: function () {
     return this.rooms - this.booked;
-  },
-  //This is the method and also a function.
+  }
+  // the function is a method
+  //"This" represents the object hotel, for you could use name.rooms name.booked
 };
 ```
 
