@@ -43,6 +43,40 @@ let hotel = {
 ```
 
 - Constructor Notation
+  - Creates object instances and uses parameters to assign unique property values
+  - similar to function declaration -- use function, name starts with capital letter
+
+```js
+function Student(name, pronouns){
+  //keyword this is very important
+  this.name = name;
+  this.pronouns = pronouns;
+  this.currentClass = '201d82'
+  this.greetClass = function (){
+    console.log(`Hey! ${this.currentClass}`);
+  }
+  allStudent.push(this)
+}
+
+//assigning a propterty outside a constructor
+let allStudent = []
+
+// 'prototype' inherits.. student inherits function below
+Student.prototype.greetClass = function(){
+  console.log(`Hey! ${this.currentClass}`);
+}
+
+  
+
+let lauren = new Student('Lauren', 'they/them');
+let michael = new Student('Michael', 'he/him');
+
+console.log(michael);
+lauren.greetClass();
+
+// console.log(Student.all);
+
+```
 
 ```js
 function Hotel (name, rooms, booked){
