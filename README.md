@@ -15,7 +15,7 @@
 - [HTML Images; CSS Color & Text](Code_201_Reading-Notes/class-05.md)
 - [JS Object Literals; The DOM](Code_201_Reading-Notes/class-06.md)
 - [HTML Tables; JS Constructor Functions](Code_201_Reading-Notes/class-07.md)
-- [More CSS Layout]()
+- [More CSS Layout](Code_201_Reading-Notes/class-08.md)
 - [Forms and Events]()
 - [JS Debugging]()
 - [Assorted Topics]()
