@@ -20,8 +20,36 @@
 - Flexbox layout is one-dimensional.
   - it is laid out on a single axis.
   - the element's children will be placed next to each other.
-- Using `align-items`, `justify-content`, and `flex-wrap` properties, you can control how flew children elements behave.
+- Using `align-items`, `justify-content`, and `flex-wrap` properties, you can control how flex children elements behave.
   > https://web.dev/learn/css/layout/
+
+```cs
+#container {
+  display: flex;  // is a must
+  flex-direction: row-reverse;  // reverses row on other end of page
+  flex-direction: column;  // creates column in container
+  flex-direction: column-reverse;  // flips column upside down
+  justify-content: flex-start; // default value
+  justify-content: center; // centers in the box
+  justify-content: space-around; // each box in the column or row will have space around each one
+  justify-content: space-between; // only puts space inbetween boxes
+  justify-content: space-evenly; 
+  flex-wrap: wrap; // as window size changes, the boxes within container move
+  flex-wrap: wrap-reverse; // wraps the other way
+  align-items: flex-end; // pushing to bottom
+  align-items: center; // centers to the container
+
+#container div {
+  width: 200px;
+  height:200px;
+
+div:nth-of-type(3){
+  align-self: flex-start;
+
+div: nth-of-type(1){
+  flex-grow: 1; // grows with page
+  flex- shrink: 3; // shrinks with page
+```
 
 ## Review on Layout
 
