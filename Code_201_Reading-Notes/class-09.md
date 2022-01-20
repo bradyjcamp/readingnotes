@@ -148,3 +148,38 @@ document.addEventListener('click', e => {
 })
 ```
 
+## Notes from Class
+
+- Event Handling
+  - **Event** is when something has been fired or raised
+    - *click*
+    - *submit*
+    - *mouseover*
+    - *keypress*
+    - *key up, key down*
+    - *on page load*
+  - **Code** is when something gets triggered
+    - *Event Listener*
+      - listens for even then triggers more code
+    - *Event Handler* 
+      - code that runs in response to the event
+  - OLD WAYS - DO NOT USE
+    - `<article onClick = "handleClick">`
+    - `element.onEvent = funcitonName`
+    - `button.onSubmit = function(){}`
+  - OUR WAY!
+  ```js
+  //--------------------event is a string
+  element.addEventListener('event' function);
+  //-------------------------------this is a CALLBACK function
+  ```
+  
+- Callback funciton = function that is passed in as an argument to another function
+  - the return on that function is used as the arguement for that callback function
+
+```js
+button.addEventListener('submit', handleSubmit);
+```
+
+- Event Bubbling - this is what we often see
+  - Event listener goes on the parent
