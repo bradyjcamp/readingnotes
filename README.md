@@ -16,7 +16,7 @@
 - [JS Object Literals; The DOM](Code_201_Reading-Notes/class-06.md)
 - [HTML Tables; JS Constructor Functions](Code_201_Reading-Notes/class-07.md)
 - [More CSS Layout](Code_201_Reading-Notes/class-08.md)
-- [Forms and Events]()
+- [Forms and Events](Code_201_Reading-Notes/class-09.md)
 - [JS Debugging]()
 - [Assorted Topics]()
 - [Docs for the HTML-Element & Chart]()

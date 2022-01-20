@@ -15,21 +15,25 @@
 - Within HTML there are multiple **elements** used to determine what structure the text will have.
 - Here is a basic HTML layout for a simple web page using some core elements
 
-```
+```html
 <html>
-	<body>
-		<h1>This is the Main Heading</h1>
-		<p>This text might be an introduction to the rest of the page. And if the page is a
-			 long one it might be split up into several sub-headings.<p>
-		<h2>This is a Sub-Heading</h2>
-		<p>Many long articles have sub-headings so to help you follow the structure of what
-			 is being written. There may even be sub-sub-headings (or lower-level headings).
-			 </p>
-		<h2>Another Sub-Heading</h2>
-		<p>Here you can see another sub-heading.</p>
-	</body>
+  <body>
+    <h1>This is the Main Heading</h1>
+    <p>
+      This text might be an introduction to the rest of the page. And if the
+      page is a long one it might be split up into several sub-headings.
+    </p>
+    <p></p>
+    <h2>This is a Sub-Heading</h2>
+    <p>
+      Many long articles have sub-headings so to help you follow the structure
+      of what is being written. There may even be sub-sub-headings (or
+      lower-level headings).
+    </p>
+    <h2>Another Sub-Heading</h2>
+    <p>Here you can see another sub-heading.</p>
+  </body>
 </html>
-
 ```
 
 Duckett, John. _HTML & CSS: Design and Build Websites._ John Wiley and Sons, 2014.
@@ -37,9 +41,11 @@ Duckett, John. _HTML & CSS: Design and Build Websites._ John Wiley and Sons, 201
 - Notice how each element needs to have an opening tag and a closing tag using `<>` and `</>`
 - Elements can also contain an attribute within them
   - These attributes must have a **name** and a **value** associated with them and the syntax would apear as so:
-  ```
+
+  ```html
   <p lang="en-us">Paragraph in English</p>
   ```
+
   Duckett, John. HTML &amp; CSS: Design and Build Websites. John Wiley and Sons, 2014.
 
 ## Extra Markup
@@ -62,13 +68,13 @@ Duckett, John. _HTML & CSS: Design and Build Websites._ John Wiley and Sons, 201
   - Say you have multiple `<p>` tags but only want to make one specific tag a difference color or style is CSS, you would have to give it an `id` attribute.
   - For example:
 
-```
+```html
 <p id="mainParagraph"> This is the main paragraph </p>
 ```
 
 - You can also use the `class` attribute in a similar way to give more than one specific paragraph a certain CSS element.
 
-```
+```html
 <p class="important"> I want a couple paragraphs with certain styles </p>
 ```
 

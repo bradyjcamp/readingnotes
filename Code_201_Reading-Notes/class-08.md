@@ -13,7 +13,7 @@
 }
 ```
 
-> https://web.dev/learn/css/layout/
+> `https://web.dev/learn/css/layout/`
 
 ## Flexbox
 
@@ -21,7 +21,7 @@
   - it is laid out on a single axis.
   - the element's children will be placed next to each other.
 - Using `align-items`, `justify-content`, and `flex-wrap` properties, you can control how flex children elements behave.
-  > https://web.dev/learn/css/layout/
+  > `https://web.dev/learn/css/layout/`
 
 ```cs
 #container {

@@ -16,20 +16,21 @@
 - CSS gives you the flexibility to style any element in HTML
 - You can change background color, text color, text size, and so much more.
 - Examples:
-```
-p {
-  color: blue
-}
-h1{
-  background-color: pink
-}
-```
-- The CSS code above changes the color of all paragraph text to blue, and changes `h1` background color to be pink!
 
+```css
+p {
+  color: blue;
+}
+h1 {
+  background-color: pink;
+}
+```
+
+- The CSS code above changes the color of all paragraph text to blue, and changes `h1` background color to be pink!
 
 - If you want to put your CSS directly in your HTML you would simply put the above elements inside of an opening `<style>` bracket and closing `</style>` bracket.
 - You can also source your CSS from another file on your code editor and it would look like this:
-`<link href="css/styles.css" type="text/css">`
+  `<link href="css/styles.css" type="text/css">`
 
 ## Basic JavaScript Instructions
 
@@ -38,38 +39,30 @@ h1{
 - Comments, like mentioned before, are important to organize and add notes to help understand the functions in script.
   - Syntax for JS comments are `//` for single line, and `/* */` for chunks including multiple lines.
 
-
 ## Variables
-
 
 - Throughout the script there will be multiple variables to help identify what we want the functions to reference.
 - All variables will have a **name** and a **value** associated with them. See example:
 
-
-```
+```js
 let variableName;
-variableName = 'variableValue';
+variableName = "variableValue";
 ```
-
 
 - You can also shorten the amount of lines needed when defining a variable by using the following steps,
 
-
+```js
+let variableName = "variableValue";
 ```
-let variableName = 'variableValue'
-```
-
 
 - Rules for naming variables are as follow:
-  - Must begin with letter, underscore (_), or Dollar sign ($) and can only contain these characters.
+  - Must begin with letter, underscore (\_), or Dollar sign ($) and can only contain these characters.
   - Cannot use **keywords** or **reserved** words.
   - They are case sensitive.
   - Should be a descriptive name.
   - Must use camel case if name is more than one word.
 
-
 ### Data Types
-
 
 - JS has three different data types
   - Numeric Data `0.75`
@@ -78,9 +71,7 @@ let variableName = 'variableValue'
   - Undefined
   - null
 
-
 ### Arrays
-
 
 - Arrays store a list of values not just one.
 - They can be given a name as well to go with the values.
@@ -88,9 +79,7 @@ let variableName = 'variableValue'
   - If an array had a list of 5 values and you wanted to reference the first value, you would enter `name[0]`.
   - The index value starts at 0 so your first item would be `[0]`.
 
-
 ### Operators
-
 
 - Operators create a single value from multiple values.
 - Types include:
@@ -105,12 +94,9 @@ let variableName = 'variableValue'
   - Logical Operators
     - combine expressions that return `true` or `false`
 
-
 Duckett, John. JAVASCRIPT &amp; JQUERY: interactive front-end web development. John Wiley and Sons, 2014.
 
-
 ## Decisions and Loops
-
 
 - To understand **decision** and **loops** we must first think of the flow of the script we are trying to run.
 - Within that flow there will be multiple **evaluations**, **decisions**, and **loops**
@@ -138,11 +124,10 @@ Duckett, John. JAVASCRIPT &amp; JQUERY: interactive front-end web development. J
     - `true || false` returns `true`
     - `false || true` returns `true`
     - `false || false` returns `false`
-  - `!` (logical not)
-    -`!true` returns `false`
-Duckett, John. JAVASCRIPT &amp; JQUERY: interactive front-end web development. John Wiley and Sons, 2014.
+  - `!` (logical not) -`!true` returns `false`
+    Duckett, John. JAVASCRIPT &amp; JQUERY: interactive front-end web development. John Wiley and Sons, 2014.
 
-# Git vs. GitHub
+## Git vs. GitHub
 
 - Git
   - version control system
@@ -154,10 +139,9 @@ Duckett, John. JAVASCRIPT &amp; JQUERY: interactive front-end web development. J
   - Push
 - Git flow for repo
   - Create our Repo on GitHub first
-  - Clone down to machine  by using **git clone <url>**
+  - Clone down to machine by using **git clone `<url>`**
   - Make local changes on machine
   - ACP to push to github
     - git add file or file(s) of git add . (which means all)
     - git commit -m "meaningful message"
-    - git push origin <branch name>
-
+    - git push origin `<branch name>`

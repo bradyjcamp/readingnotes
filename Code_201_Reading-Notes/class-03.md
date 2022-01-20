@@ -24,7 +24,9 @@
 - Whenever CSS is styling HTML elements, it will display and think of each element as its own box. Therefore, it is important to always set some dimensions of that box and ensure everything is sized correctly.
 - This can be done by adding `height` and `width` features to the HTML element you are styling.
   - For example:
-```
+
+```css
+
 div{
   height: 300px;
   width: 400px;
@@ -36,9 +38,10 @@ p{
   background color: grey;
 }
 ```
+
 Duckett, John. _HTML & CSS: Design and Build Websites._ John Wiley and Sons, 2014.
 
-- This is setting the *height* and *width* of the box behind the paragraph element, and also setting the *height* and *width* of the paragraph box.
+- This is setting the _height_ and _width_ of the box behind the paragraph element, and also setting the _height_ and _width_ of the paragraph box.
 - You can also use `min-width` and `max-width`, or `min-height` and `max-height` to set a maximum and minimum width and height for the browser. This is helpful if a user is using the browser on a smaller screen or changing the size of it.
 - If the box is too small for the contents of the paragraph, then you can use the `overflow: hidden;` or `overflow: scroll;` elements on CSS to either hide the content when it runs out of room in the box, or the user can scroll down to see more.
 
@@ -48,28 +51,33 @@ Duckett, John. _HTML & CSS: Design and Build Websites._ John Wiley and Sons, 201
   - Change the padding dimensions and size to create space from the text to the border.
 - The **border** then goes around the **padding** and most time is not visible unless specified otherwise.
   - Borders can have any width and you can also assign different styles and colors.
-- The **margin** is the outer most box that creates space around the *padding* and *border*.
+- The **margin** is the outer most box that creates space around the _padding_ and _border_.
   - Margin can create space from outside the border.
 - Border Images
   - When yoou add a border image, it is usually sliced into 9 individual pieces.
   - This property requires three pieces of info:
-```
+
+```css
+
 p.one {
   -moz-border-image: url("images/dots.gif") 11 11 11 11 stretch;
   -webkit-border-image: url("images/dots.gif") 11 11 11 11 stretch;
   border-image: url("images/dots.gif") 11 11 11 11 stretch
 }
 ```
-Duckett, John. _HTML & CSS: Design and Build Websites._ John Wiley and Sons, 2014.
 
+Duckett, John. _HTML & CSS: Design and Build Websites._ John Wiley and Sons, 2014.
 
 - You can change the value from **stretch** to **repeat**, or **round** as well.
 - Box Shadows follows a similar layout:
-```
+
+```css
+
 -moz-box-shadow: px, px, px, px, color;
 -webkit-box-shadow: px, px, px, px, color;
 box-shadow:px, px, px, px, color;
 ```
+
 Duckett, John. _HTML & CSS: Design and Build Websites._ John Wiley and Sons, 2014.
 
 ## Arrays
@@ -86,7 +94,7 @@ Duckett, John. _HTML & CSS: Design and Build Websites._ John Wiley and Sons, 201
     - Zero based index system
 - Build in Methods!
   - `.push()`, `.pop()`, `.includes()`.
--Properties
+    -Properties
   - `length`
 
 ## Switch Statements
@@ -94,7 +102,8 @@ Duckett, John. _HTML & CSS: Design and Build Websites._ John Wiley and Sons, 201
 - Switch statements are useful when you have multiple possible values for a variable and they run quicker than if than statements by using the keyword **break**.
 - In the example below, based on what level the user is on, they will get a different message:
 
-```
+```js
+
 var msg;        // Message
 var level = 2;  // Level
 
@@ -120,4 +129,5 @@ default:
 var el = document.getElementById('answer');
 el.textContent = msg;
 ```
+
 Duckett, John. JAVASCRIPT &amp; JQUERY: interactive front-end web development. John Wiley and Sons, 2014.
