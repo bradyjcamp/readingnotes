@@ -17,7 +17,7 @@
 - [HTML Tables; JS Constructor Functions](Code_201_Reading-Notes/class-07.md)
 - [More CSS Layout](Code_201_Reading-Notes/class-08.md)
 - [Forms and Events](Code_201_Reading-Notes/class-09.md)
-- [JS Debugging]()
+- [JS Debugging](Code_201_Reading-Notes/class-10.md)
 - [Assorted Topics]()
 - [Docs for the HTML-Element & Chart]()
 - [Local Storage]()
