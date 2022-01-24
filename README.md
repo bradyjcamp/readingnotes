@@ -18,7 +18,7 @@
 - [More CSS Layout](Code_201_Reading-Notes/class-08.md)
 - [Forms and Events](Code_201_Reading-Notes/class-09.md)
 - [JS Debugging](Code_201_Reading-Notes/class-10.md)
-- [Assorted Topics]()
+- [Assorted Topics](Code_201_Reading-Notes/class-11.md)
 - [Docs for the HTML-Element & Chart]()
 - [Local Storage]()
 - [CSS Transforms, Transitions, and Animations]()
