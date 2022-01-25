@@ -19,7 +19,7 @@
 - [Forms and Events](Code_201_Reading-Notes/class-09.md)
 - [JS Debugging](Code_201_Reading-Notes/class-10.md)
 - [Assorted Topics](Code_201_Reading-Notes/class-11.md)
-- [Docs for the HTML-Element & Chart]()
+- [Docs for the HTML-Element & Chart](Code_201_Reading-Notes/class-12.md)
 - [Local Storage]()
 - [CSS Transforms, Transitions, and Animations]()
 - [What Google Learned About Teams]()
