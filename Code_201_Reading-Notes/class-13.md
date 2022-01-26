@@ -1,5 +1,10 @@
 # Local Storage
 
+- Stored on the users local hard drive.
+- You can access form browser too.
+  - Inspect
+    - Application
+      - local storage
 - **Cookies** are there to hold a very small amount of data on web applications.
   - They can slow down your applications and even send unencrypted data over the internet.
 - Local storage is there to improve the users experience and make web apps and web browsing for customizable to the user.
@@ -29,3 +34,16 @@ interface Storage{
   - `key()` with the index.
 
 [Info Referenced Above Found at This Site](http://diveinto.html5doctor.com/storage.html)
+
+## JSON
+
+- JavaScript Object Notation
+- To put in to local storage
+  - Convert our data to JSON
+    - JSON.stringify(data)
+    - localStorage.setItem(key,value)
+- To take out of local storage
+  - Convert back to readable code
+  - JSON.parse(data)
+- What goes in does not necessarily come out the same way it went in.
+  - localStorage.getItem
