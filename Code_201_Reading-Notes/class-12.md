@@ -1,9 +1,9 @@
 # Chart.js
 
-## Canvas 
+## Canvas
 
 - Canvas is an HTML element used for implemented styled graphs.
-- Similiar to photos you need to add some fallback content in case the image does not load. 
+- Similiar to photos you need to add some fallback content in case the image does not load.
 - For canvas though you need to simply put it within the open and close `<element>` tag.
 
 ```html
@@ -26,11 +26,12 @@ This is my fallback text
 ```js
 beginPath();
 moveTo(x, y);
-lineTo(x,y);
-lineTo(x,y);
+lineTo(x, y);
+lineTo(x, y);
 fill();
 ```
-https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
+
+[Reference](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
 
 - chart.js
 
@@ -38,22 +39,23 @@ https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_sha
 
 ```js
 var pieData = [
-{
-  value: 20,
-    color:"#878BB6"
-	},
-	{
-		value : 40,
-		color : "#4ACAB4"
-	},
-	{
-		value : 10,
-		color : "#FF8153"
-	},
-	{
-		value : 30,
-		color : "#FFEA88"
-	}
+  {
+    value: 20,
+    color: "#878BB6",
+  },
+  {
+    value: 40,
+    color: "#4ACAB4",
+  },
+  {
+    value: 10,
+    color: "#FF8153",
+  },
+  {
+    value: 30,
+    color: "#FFEA88",
+  },
 ];
 ```
-https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/
+
+[Reference](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
