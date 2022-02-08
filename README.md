@@ -1,6 +1,22 @@
 # Code Fellows Reading-Notes
 
-- This website currently contains all of my reading notes for my Software Development Courses so far.
+- [This website currently contains all of my reading notes for my Software Development Courses so far.](https://bradyjcamp.github.io/readingnotes/)
+
+## Code 102 Reading Notes
+
+- Below is a table of contents for all of Code 102's reading-notes.
+
+### Table of Contents 102
+
+- [Markdown](Code_102_Reading-Notes/Markdown.md)
+- [Text Editors and Terminal](Code_102_Reading-Notes/Text-Editor-and-Terminal.md)
+- [Git and GitHub](Code_102_Reading-Notes/GitandGitHub.md)
+- [Growth Mindset](Code_102_Reading-Notes/GrowthMindset.md)
+- [Hypertext Markup Language](Code_102_Reading-Notes/HypertextMarkupLanguage.md)
+- [CSS](Code_102_Reading-Notes/CSS.md)
+- [JavaScript](Code_102_Reading-Notes/JavaScript.md)
+- [JS Expressions and Operators](Code_102_Reading-Notes/Expressions-and-Operators.md)
+- [JS Loops](Code_102_Reading-Notes/JS-Loops.md)
 
 ## Code 201 Reading Notes
 
@@ -24,18 +40,8 @@
 - [CSS Transforms, Transitions, and Animations](Code_201_Reading-Notes/class-14a.md)
 - [What Google Learned About Teams](Code_201_Reading-Notes/class-14b.md)
 
-## Code 102 Reading Notes
+## Code 301 Reading Notes
 
-- Below is a table of contents for all of Code 102's reading-notes.
+- Below is a table of contents for all of Code 301's reading-notes.
 
-### Table of Contents 102
-
-- [Markdown](Code_102_Reading-Notes/Markdown.md)
-- [Text Editors and Terminal](Code_102_Reading-Notes/Text-Editor-and-Terminal.md)
-- [Git and GitHub](Code_102_Reading-Notes/GitandGitHub.md)
-- [Growth Mindset](Code_102_Reading-Notes/GrowthMindset.md)
-- [Hypertext Markup Language](Code_102_Reading-Notes/HypertextMarkupLanguage.md)
-- [CSS](Code_102_Reading-Notes/CSS.md)
-- [JavaScript](Code_102_Reading-Notes/JavaScript.md)
-- [JS Expressions and Operators](Code_102_Reading-Notes/Expressions-and-Operators.md)
-- [JS Loops](Code_102_Reading-Notes/JS-Loops.md)
+### Table of Contents 301
