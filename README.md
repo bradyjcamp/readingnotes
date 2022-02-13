@@ -46,6 +46,8 @@
 
 ### Table of Contents 301
 
+- [Introduction to React and Components](Code_301_Reading-Notes/class-01.md)
+
 ## Code 401 Reading Notes
 
 - Below is a table of contents for all of Code 301's reading-notes.
