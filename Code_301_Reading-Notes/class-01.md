@@ -1,5 +1,12 @@
 # Introduction to React and Components
 
+## React
+
+- React is a collection of libraries.
+  - create-react-app: npm(node package manager) package used to generate a functional react application
+    - run npx command:
+      - `npx create-react-app <gallery-of-horns>`
+
 ## Component-Based Architecture
 
 - What is a component?
@@ -30,12 +37,15 @@
 ## Props
 
 - What is *props* short for?
-  - Properties
+  - Properties - **data passed from parents to child.**
 - How are *props* used in React?
   - They pass data from one component to another one way from parent to child.
+  - A child CANNOT change the props passed to it.
 - What is the flow of props?
   - Unidirectional flow. They are passed from the parent component to the child component.
   - [Source](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0#:~:text=%E2%80%9CProps%E2%80%9D%20is%20a%20special%20keyword,way%20from%20parent%20to%20child)
 
-
 ## Things I want to know more about
+
+- React
+  - React is a collection of libraries.
