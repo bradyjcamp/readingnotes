@@ -1,6 +1,8 @@
 # State and Props
 
 - State
+  - Data that belongs to the COMPONENT. 
+    - In this case, the COMPONENT can change its own data
   - local or only inside a specific component or child
 - Props
   - Data passed from parent to child
