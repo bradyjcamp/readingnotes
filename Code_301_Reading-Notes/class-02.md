@@ -1,8 +1,9 @@
 # State and Props
 
 - State
-  - local or only inside a specific component
+  - local or only inside a specific component or child
 - Props
+  - Data passed from parent to child
   - arguments to a function
   - pass props into a component we want to render
   - can be changed by parent component
