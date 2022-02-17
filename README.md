@@ -49,6 +49,7 @@
 - [Introduction to React and Components](Code_301_Reading-Notes/class-01.md)
 - [React Lifecycle, State, and Props](Code_301_Reading-Notes/class-02.md)
 - [Passing Functions as Props](Code_301_Reading-Notes/class-03.md)
+- [React and Forms](Code_301_Reading-Notes/class-04.md)
 
 ## Code 401 Reading Notes
 
