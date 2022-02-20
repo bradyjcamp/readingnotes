@@ -39,3 +39,7 @@
 - It involves a *Driver* and a *Navigator*
   - The driver does all of the "physical work" by actually writing the code and sorting through files.
   - The navigator is the one telling the driver where to go and what to do.
+
+## Things I want to know more about
+
+- I want to know more about API's, asynchronous I/O and other CS topics
