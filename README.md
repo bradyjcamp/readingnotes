@@ -52,6 +52,7 @@
 - [React and Forms](Code_301_Reading-Notes/class-04.md)
 - [Putting it all Together](Code_301_Reading-Notes/class-05.md)
 - [Node.js and Pair Programming](Code_301_Reading-Notes/class-06.md)
+- [REST](Code_301_Reading-Notes/class-07.md)
 
 ## Code 401 Reading Notes
 
