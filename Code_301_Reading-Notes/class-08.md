@@ -4,13 +4,13 @@
   - **Representational state transfer**
 - REST APIs are designed around a ____.
   - *Resources* - which are any sort of data, object, or service that can be access by the client
-- What is an identifer of a resource? Give an example.
+- What is an identifier of a resource? Give an example.
   > A resource has an identifier, which is a URI that uniquely identifies that resource. For example, the URI for a particular customer order might be: https://adventure-works.com/orders/1
   - [Source](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 - What are the most common HTTP verbs?
   - **GET**, **POST**, **PUT**, **PATCH**, and **DELETE**.
 - What should the URIs be based on?
-  - the resouce or *nouns*
+  - the resource or *nouns*
 - Give an example of a good URI.
   > [https://adventure-works.com/orders](https://adventure-works.com/orders)
   - [Source](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
