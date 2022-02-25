@@ -54,6 +54,7 @@
 - [Node.js and Pair Programming](Code_301_Reading-Notes/class-06.md)
 - [REST](Code_301_Reading-Notes/class-07.md)
 - [API's](Code_301_Reading-Notes/class-08.md)
+- [Functional Programming](Code_301_Reading-Notes/class-09.md)
 
 ## Code 401 Reading Notes
 
