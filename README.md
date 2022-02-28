@@ -55,6 +55,7 @@
 - [REST](Code_301_Reading-Notes/class-07.md)
 - [API's](Code_301_Reading-Notes/class-08.md)
 - [Functional Programming](Code_301_Reading-Notes/class-09.md)
+- [In Memory Storage](Code_301_Reading-Notes/class-10.md)
 
 ## Code 401 Reading Notes
 
