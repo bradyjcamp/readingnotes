@@ -9,7 +9,7 @@
 - What does LIFO mean?
   - *Last In First Out*
 - Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.
-  - [Call Stack Drawing](/call-stack.png)
+  - [Call Stack Drawing](/img/call-stack.png)
 - What causes a Stack Overflow?
   - This happens when there is a recursive function.
 - [Source](https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4)
