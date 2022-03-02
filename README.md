@@ -57,6 +57,7 @@
 - [Functional Programming](Code_301_Reading-Notes/class-09.md)
 - [In Memory Storage](Code_301_Reading-Notes/class-10.md)
 - [SQL vs NoSQL](Code_301_Reading-Notes/class-11.md)
+- [Diversity & Inclusion in the Tech Industry](Code_301_Reading-Notes/class-13.md)
 
 ## Code 401 Reading Notes
 
