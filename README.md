@@ -2,7 +2,7 @@
 
 - [This website currently contains all of my reading notes for my Software Development Courses so far.](https://bradyjcamp.github.io/readingnotes/)
 
-## Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 
 - Below is a table of contents for all of Code 102's reading-notes.
 
@@ -18,7 +18,7 @@
 - [JS Expressions and Operators](Code_102_Reading-Notes/Expressions-and-Operators.md)
 - [JS Loops](Code_102_Reading-Notes/JS-Loops.md)
 
-## Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 - Below is a table of contents for all of Code 201's reading-notes.
 
@@ -40,7 +40,7 @@
 - [CSS Transforms, Transitions, and Animations](Code_201_Reading-Notes/class-14a.md)
 - [What Google Learned About Teams](Code_201_Reading-Notes/class-14b.md)
 
-## Code 301 Reading Notes
+## Code 301 - Intermediate Software Development
 
 - Below is a table of contents for all of Code 301's reading-notes.
 
@@ -61,7 +61,7 @@
 - [Diversity & Inclusion in the Tech Industry](Code_301_Reading-Notes/class-13.md)
 - [Authentication/CRUD](Code_301_Reading-Notes/class-14.md)
 
-## Code 401 Reading Notes
+## Code 401 - Advanced Software Development
 
 - Below is a table of contents for all of Code 301's reading-notes.
 
