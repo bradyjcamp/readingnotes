@@ -68,3 +68,4 @@
 ### Table of Contents 401
 
 - [SQL Practice](Code_401_Reading-Notes/SQL-Practice.md)
+- [The Terminal](Code_401_Reading-Notes/The-Terminal.md)
