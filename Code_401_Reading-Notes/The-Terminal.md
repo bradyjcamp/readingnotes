@@ -12,7 +12,7 @@
 - `ls` is an easy way to peek into the current directory you are on to see what files are inside. This will not enter or open any files but will list what is inside it.
 - You can follow `ls` up with the file or directory name and search inside specified folders.
 - Paths
-  - Paths are hierarchical and start at the **root**. It is started with **/** 
+  - Paths are hierarchical and start at the **root**. It is started with **/**
   - The two types are Absolute and Relative
     - Absolute paths specify the location comparing to the root directory and begin with a **/**
     - Relative paths specify where we are at currently in the system and **will not** begin with a **/**

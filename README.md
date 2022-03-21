@@ -69,3 +69,4 @@
 
 - [SQL Practice](Code_401_Reading-Notes/SQL-Practice.md)
 - [The Terminal](Code_401_Reading-Notes/The-Terminal.md)
+- [Get Ready for 401](Code_401_Reading-Notes/Get-Ready-for-401.md)
