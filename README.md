@@ -70,3 +70,5 @@
 - [SQL Practice](Code_401_Reading-Notes/SQL-Practice.md)
 - [The Terminal](Code_401_Reading-Notes/The-Terminal.md)
 - [Get Ready for 401](Code_401_Reading-Notes/Get-Ready-for-401.md)
+- [Node Ecosystem, TDD, CI/CD](Code_401_Reading-Notes/class-01.md)
+- [Express](Code_401_Reading-Notes/class-02.md)
