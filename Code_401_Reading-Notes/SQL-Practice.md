@@ -2,6 +2,9 @@
 
 - Structured Query Language
   - A search language that instructs what info needs to be retrieved from a database.
+  - Model = table
+  - Model Property = column
+  - Model instance = instance
 - Exercises 1-6
   - [Exercise 1](/img/SQL_Exercises/Exercise1.png)
   - [Exercise 2](/img/SQL_Exercises/Exercise2.png)
