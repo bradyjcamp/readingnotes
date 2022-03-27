@@ -72,3 +72,4 @@
 - [Get Ready for 401](Code_401_Reading-Notes/Get-Ready-for-401.md)
 - [Node Ecosystem, TDD, CI/CD](Code_401_Reading-Notes/class-01.md)
 - [Express](Code_401_Reading-Notes/class-02.md)
+- [Express Routing](Code_401_Reading-Notes/class-03.md)
