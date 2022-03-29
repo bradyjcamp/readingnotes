@@ -75,3 +75,4 @@
 - [Express Routing](Code_401_Reading-Notes/class-03.md)
 - [Data Modeling](Code_401_Reading-Notes/class-04.md)
 - [Authentication](Code_401_Reading-Notes/class-06.md)
+- [JWT](Code_401_Reading-Notes/class-07.md)
