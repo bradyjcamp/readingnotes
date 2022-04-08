@@ -81,3 +81,4 @@
 - [Event Driven Application](Code_401_Reading-Notes/class-11.md)
 - [Socket.io](Code_401_Reading-Notes/class-12.md)
 - [Socket.io Message Queues](Code_401_Reading-Notes/class-13.md)
+- [DSA-Trees](Code_401_Reading-Notes/trees.md)
