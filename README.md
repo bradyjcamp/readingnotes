@@ -85,3 +85,4 @@
 - [DSA-Trees](Code_401_Reading-Notes/trees.md)
 - [S3 and Lambda](Code_401_Reading-Notes/class-17.md)
 - [AWS: API, Dynamo, and Lambda](Code_401_Reading-Notes/class-18.md)
+- [AWS: SNS and SQS](Code_401_Reading-Notes/class-19.md)
