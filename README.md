@@ -87,3 +87,4 @@
 - [AWS: API, Dynamo, and Lambda](Code_401_Reading-Notes/class-18.md)
 - [AWS: SNS and SQS](Code_401_Reading-Notes/class-19.md)
 - [React Hooks](Code_401_Reading-Notes/class-27.md)
+- [Effect Hook](Code_401_Reading-Notes/class-28.md)
