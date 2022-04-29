@@ -89,3 +89,4 @@
 - [React Hooks](Code_401_Reading-Notes/class-27.md)
 - [Effect Hook](Code_401_Reading-Notes/class-28.md)
 - [Reducer Hook](Code_401_Reading-Notes/class-29.md)
+- [HashTables](Code_401_Reading-Notes/Hashtables.md)
