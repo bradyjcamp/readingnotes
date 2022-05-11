@@ -92,3 +92,6 @@
 - [HashTables](Code_401_Reading-Notes/Hashtables.md)
 - [Context](Code_401_Reading-Notes/class-31.md)
 - [Login/Auth](Code_401_Reading-Notes/class-33.md)
+- [Authentication](Code_401_Reading-Notes/class-34.md)
+- [Redux](Code_401_Reading-Notes/class-36.md)
+- [Redux Combined Reducers](Code_401_Reading-Notes/class-37.md)
