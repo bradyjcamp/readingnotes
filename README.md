@@ -95,3 +95,4 @@
 - [Authentication](Code_401_Reading-Notes/class-34.md)
 - [Redux](Code_401_Reading-Notes/class-36.md)
 - [Redux Combined Reducers](Code_401_Reading-Notes/class-37.md)
+- [Redux Async Middleware](Code_401_Reading-Notes/class-38.md)
