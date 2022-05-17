@@ -98,3 +98,4 @@
 - [Redux Async Middleware](Code_401_Reading-Notes/class-38.md)
 - [Redux Toolkit](Code_401_Reading-Notes/class-39.md)
 - [React Native](Code_401_Reading-Notes/class-41.md)
+- [Ethics in Tech](Code_401_Reading-Notes/ethics-in-tech.md)
